@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#F3EFE9"/>
+  <g transform="translate(200 130)" fill="none" stroke="#C4B5A3" stroke-width="8" stroke-linecap="round">
+    <path d="M-45 -30 h75 v45 a38 38 0 0 1 -75 0 z"/>
+    <path d="M30 -20 h18 a20 20 0 0 1 0 40 h-18"/>
+    <path d="M-25 -58 c0 -12 10 -12 10 -24"/>
+    <path d="M-3 -58 c0 -12 10 -12 10 -24"/>
+  </g>
+  <text x="200" y="230" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#9C8B78">Foto menu belum tersedia</text>
+</svg>
